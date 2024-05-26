@@ -26,6 +26,7 @@
 		FA515FF32C0342B300675699 /* FM_dylib_checker.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FM_dylib_checker.entitlements; sourceTree = "<group>"; };
 		FAA4718D2BF880AA00B072AF /* FM_dylib_checker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FM_dylib_checker; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA471902BF880AA00B072AF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FAD122A02C035C9600555CE6 /* release */ = {isa = PBXFileReference; lastKnownFileType = folder; path = release; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		FAA4718F2BF880AA00B072AF /* FM_dylib_checker */ = {
 			isa = PBXGroup;
 			children = (
+				FAD122A02C035C9600555CE6 /* release */,
 				FA515FF32C0342B300675699 /* FM_dylib_checker.entitlements */,
 				FAA471902BF880AA00B072AF /* main.swift */,
 			);
