@@ -23,8 +23,8 @@ Download `FM_dylib_checker.dmg` from release folder, mount and run FM_dylib_chec
 
 You can also download Xcode project and build it from source.
 
+## Example of output
 
+App is running, please wait...
 
-
-
-
+   ⚠️ Vulnarable, Not signed             /Applications/FileMaker Pro 16/FileMaker Pro.app<br />    ⚠️ Vulnarable, Not signed             /Applications/FileMaker Pro 18 Advanced/FileMaker Pro 18 Advanced.app<br />    ✅ Not vulnarable                     /Applications/FileMaker Pro_21.0.1_38.app<br />    ⚠️ Vulnarable, dylib allowed          /Applications/FileMaker Pro_20.3.1_.app<br />    ⚠️ Vulnarable, dylib allowed          /Applications/FileMaker Pro 13/FileMaker Pro.app<br />    ⚠️ Vulnarable, dylib allowed          /Applications/FileMaker Pro 15/FileMaker Pro.app<br />    ✅ Not vulnarable                     /Applications/FileMaker Pro_21.0.1_41.app<br />    ✅ Not vulnarable                     /Applications/FileMaker Pro_21.0.1.app<br />    ⚠️ Vulnarable, dylib allowed          /Applications/FileMaker Pro_20.3.2_.app<br />    ✅ Not vulnarable                     /Applications/FileMaker Pro_21.0.34.app<br />    ⚠️ Vulnarable, dylib allowed          /Applications/FileMaker Pro_21.0.1_41_.app<br />    ✅ Not vulnarable                     /Applications/FileMaker 18.0.2/FileMaker Pro 18 Advanced.app<br />    ✅ Not vulnarable                     /Applications/FileMaker 18.0.3/FileMaker Pro 18 Advanced.app<br />
