@@ -13,7 +13,7 @@ Typically, each FileMaker developer has several versions of the application inst
 
 In addition, many have used runtime in the past to generate custom FileMaker-based applications. 
 
-How do you determine if you have vulnerable versions on your Mac ? 
+How do you determine if you have dylib vulnerable versions on your Mac ? 
 
 Answering this question is not so easy, as the vulnerability kept appearing and disappearing from version to version.
 
