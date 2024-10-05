@@ -24,3 +24,5 @@ Download `FM_dylib_checker.dmg` from release folder, mount and run FM_dylib_chec
 You can also download Xcode project and build it from source.
 
 ## Example of output
+
+<img width="848" alt="example_output" src="https://github.com/user-attachments/assets/00acecd5-8919-4b7b-b796-b38dce67747c">
