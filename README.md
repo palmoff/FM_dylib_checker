@@ -1,6 +1,10 @@
-## FM_dylib_checker
+## FM dylib checker
 
-This utility was designed to check dylib hijack vulnarability of FileMaker Pro under macOS
+This command line utility was designed to check dylib hijack vulnarability of FileMaker Pro under macOS
+
+More details in this article:
+https://fm-security.com/posts/dylib/
+
 
 https://support.claris.com/s/article/FileMaker-Security-Information?language=en_US
 
